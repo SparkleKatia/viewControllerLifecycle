@@ -13,7 +13,7 @@
 /* Begin PBXFileReference section */
 		2658A4592D2579D000D65584 /* WordList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2658A4712D25888600D65584 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		2658A4742D25AD2300D65584 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		2658A4752D25B1A600D65584 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -69,7 +69,7 @@
 		2658A4732D25ACF100D65584 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				2658A4742D25AD2300D65584 /* screenshot.png */,
+				2658A4752D25B1A600D65584 /* screenshot.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
