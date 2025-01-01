@@ -28,4 +28,4 @@ This is a study project focusing on two primary objectives:
 - **Basic usage of `loadView()`**: Creating a main view and subviews entirely in code without using Storyboards.  
 - **Familiarity with `UITableView`**: Understanding the minimal setup needed to display static data (data source, delegate, registering cells). 
 
-![Screenshot of the app](Screenshots/screenshot.png)
+<img src="Screenshots/screenshot.png" alt="Screenshot" width="400" height="300"/>
