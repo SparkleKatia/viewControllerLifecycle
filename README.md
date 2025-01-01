@@ -31,5 +31,5 @@ This is a study project focusing on two primary objectives:
 Here’s a screenshot of the app running:
 
 <p align="center">
-<img src="Screenshots/appScreenshot.png" alt="Screenshot" width="200" height="400"/>
+<img src="Screenshots/appScreenshot.png" alt="Screenshot" width="300" height="500"/>
 </p>
